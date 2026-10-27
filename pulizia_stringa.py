@@ -1,2 +1,2 @@
-testo = '   spazi   '
-print(testo.strip())
+testo = '   spazi'
+print(testo.lstrip())
