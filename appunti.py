@@ -7,3 +7,5 @@ print('controllo valore variabile')
 print('test esecuzione rapido')
 
 print('aggiunta verifica rapida')
+
+print('piccolo ritocco')
