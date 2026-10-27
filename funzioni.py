@@ -1,4 +1,4 @@
-def raddoppia(x):
-    return x * 2
+def somma(x, y):
+    return x + y
 
-print(raddoppia(4))
+print(somma(10, 20))
