@@ -1,2 +1,3 @@
-for i in range(1, 11):
-    print(i)
+nomi = ['luca', 'anna', 'paolo']
+for n in nomi:
+    print('ciao', n)
