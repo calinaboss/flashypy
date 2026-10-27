@@ -1,3 +1,2 @@
-numeri = [1, 2, 3, 4, 5]
-numeri.pop()
-print(numeri)
+numeri = [1, 2, 3, 4]
+print(len(numeri))
