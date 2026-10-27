@@ -1,2 +1,2 @@
 with open('dati.txt', 'w') as f:
-    f.write('prova scrittura')
+    f.write('prima riga\nseconda riga\n')
