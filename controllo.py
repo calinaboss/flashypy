@@ -1,5 +1,7 @@
-eta = 16
-if eta >= 18:
-    print('maggiorenne')
+num = 5
+if num > 0:
+    print('positivo')
+elif num == 0:
+    print('zero')
 else:
-    print('minorenne')
+    print('negativo')
