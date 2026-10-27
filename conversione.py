@@ -1,3 +1,3 @@
-numero = 100
-testo = str(numero)
-print('punti: ' + testo)
+intero = 15
+flottante = float(intero)
+print(flottante)
