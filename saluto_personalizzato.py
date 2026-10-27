@@ -1,5 +1,7 @@
-ora = 14
+ora = 21
 if ora < 12:
     print('buongiorno')
-else:
+elif ora < 18:
     print('buon pomeriggio')
+else:
+    print('buonasera')
