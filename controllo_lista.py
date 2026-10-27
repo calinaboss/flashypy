@@ -1,3 +1,3 @@
 frutti = ['mela', 'pera', 'kiwi']
-if 'mela' in frutti:
-    print('presente')
+if 'arancia' not in frutti:
+    print('manca arancia')
