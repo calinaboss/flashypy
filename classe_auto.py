@@ -4,7 +4,10 @@ class Auto:
         self.velocita = velocita
     def accelera(self):
         self.velocita += 10
+    def frena(self):
+        self.velocita -= 5
 
 a = Auto('Fiat')
 a.accelera()
+a.frena()
 print(a.velocita)
