@@ -1,2 +1,2 @@
-quadrato = lambda x: x ** 2
-print(quadrato(6))
+somma = lambda a, b: a + b
+print(somma(4, 7))
