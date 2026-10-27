@@ -1,2 +1,2 @@
-valori = [True, True, True]
-print(all(valori))
+valori = [False, False, True]
+print(any(valori))
