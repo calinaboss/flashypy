@@ -1,4 +1,4 @@
 try:
-    n = int('abc')
-except ValueError:
-    print('errore conversione')
+    x = 10 / 0
+except ZeroDivisionError:
+    print('impossibile dividere')
