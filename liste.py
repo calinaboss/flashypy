@@ -1,2 +1,3 @@
 numeri = [1, 2, 3, 4, 5]
-print(numeri[0])
+numeri.append(6)
+print(numeri)
