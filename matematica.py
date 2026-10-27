@@ -1,2 +1,3 @@
-n = -15
-print(abs(n))
+a = -5
+b = 10
+print(abs(a) + b)
