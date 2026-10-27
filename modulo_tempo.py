@@ -1,2 +1,4 @@
 import time
-print(time.time())
+print('partenza')
+time.sleep(1)
+print('arrivo')
