@@ -1,4 +1,4 @@
-def saluta():
-    print('buongiorno')
+def saluta(nome):
+    print('buongiorno', nome)
 
-saluta()
+saluta('mario')
