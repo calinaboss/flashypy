@@ -1,2 +1,2 @@
-frase = 'ciao'
-print(frase[::-1])
+valori = [10, 20, 30]
+print(valori[::-1])
