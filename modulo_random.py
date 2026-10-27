@@ -1,2 +1,3 @@
 import random
-print(random.randint(1, 10))
+scelte = ['rosso', 'verde', 'giallo']
+print(random.choice(scelte))
