@@ -1,5 +1,4 @@
-n = 7
-if n % 2 == 0:
-    print('pari')
-else:
-    print('dispari')
+def e_pari(n):
+    return n % 2 == 0
+
+print(e_pari(8))
