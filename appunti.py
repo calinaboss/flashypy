@@ -9,3 +9,5 @@ print('test esecuzione rapido')
 print('aggiunta verifica rapida')
 
 print('piccolo ritocco')
+
+print('controllo tipo')
