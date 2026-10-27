@@ -1,2 +1,2 @@
 x = 42
-print(type(x))
+print(isinstance(x, int))
