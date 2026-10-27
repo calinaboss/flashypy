@@ -1,3 +1,2 @@
-utente = {'nome': 'luca', 'eta': 25}
-utente['citta'] = 'roma'
+utente = {'nome': 'luca', 'eta': 26, 'citta': 'roma'}
 print(utente)
