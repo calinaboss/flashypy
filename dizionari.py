@@ -1,2 +1,3 @@
 utente = {'nome': 'luca', 'eta': 25}
-print(utente['nome'])
+utente['citta'] = 'roma'
+print(utente)
