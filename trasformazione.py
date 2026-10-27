@@ -1,3 +1,3 @@
-numeri = [1, 2, 3, 4]
-quadrati = [x ** 2 for x in numeri]
-print(quadrati)
+nomi = ['mario', 'luigi']
+alto = [n.upper() for n in nomi]
+print(alto)
