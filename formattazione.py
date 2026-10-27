@@ -1,3 +1,4 @@
 nome = 'anna'
+livello = 3
 punti = 150
-print(f'{nome} ha totalizzato {punti} punti')
+print(f'{nome} - livello {livello} - {punti} pt')
