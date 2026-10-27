@@ -15,3 +15,5 @@ print('controllo tipo')
 print('test print finale')
 
 print('aggiornato test')
+
+print('verifica booleana')
