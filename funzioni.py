@@ -1,4 +1,4 @@
-def saluta(nome):
-    print('buongiorno', nome)
+def raddoppia(x):
+    return x * 2
 
-saluta('mario')
+print(raddoppia(4))
