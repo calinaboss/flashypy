@@ -19,3 +19,5 @@ print('aggiornato test')
 print('verifica booleana')
 
 print('controllo variabili')
+
+print('chiusura prova')
