@@ -1,0 +1,2 @@
+attivo = True
+print(attivo)
