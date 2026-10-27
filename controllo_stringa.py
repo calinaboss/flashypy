@@ -1,2 +1,2 @@
 testo = 'report_finale.txt'
-print(testo.startswith('report'))
+print(testo.endswith('.txt'))
