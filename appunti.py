@@ -13,3 +13,5 @@ print('piccolo ritocco')
 print('controllo tipo')
 
 print('test print finale')
+
+print('aggiornato test')
