@@ -1,2 +1,2 @@
 utente = {'nome': 'luca', 'eta': 25}
-print(utente)
+print(utente['nome'])
