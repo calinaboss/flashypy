@@ -1,2 +1,2 @@
-valore = '12345'
-print(valore.isdigit())
+parola = 'python'
+print(parola.isalpha())
