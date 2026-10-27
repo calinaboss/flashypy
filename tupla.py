@@ -1,2 +1,3 @@
 coordinate = (10, 20)
-print(coordinate)
+x, y = coordinate
+print(x, y)
