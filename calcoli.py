@@ -1,3 +1,2 @@
-a = 10
-b = 2
-print(a / b)
+r = (2 + 3) * 4
+print(r)
