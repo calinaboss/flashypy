@@ -1,2 +1,3 @@
 nome = 'Marco'
-print(nome)
+eta = 20
+print(nome, eta)
