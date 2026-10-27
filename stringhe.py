@@ -1,2 +1,2 @@
-testo = 'CORSO PYTHON'
-print(testo.lower())
+testo = 'corso python'
+print(len(testo))
