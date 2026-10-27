@@ -1,2 +1,2 @@
-utente = {'nome': 'luca', 'eta': 26, 'citta': 'roma'}
-print(utente)
+d = {'chiave': 100}
+print(d.get('chiave', 0))
