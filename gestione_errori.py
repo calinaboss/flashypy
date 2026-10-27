@@ -1,4 +1,6 @@
 try:
-    x = 10 / 0
+    x = 10 / 2
 except ZeroDivisionError:
-    print('impossibile dividere')
+    print('errore')
+finally:
+    print('fine test')
