@@ -1,4 +1,5 @@
-conta = 0
-while conta < 5:
+conta = 3
+while conta > 0:
     print(conta)
-    conta += 1
+    conta -= 1
+print('fatto')
